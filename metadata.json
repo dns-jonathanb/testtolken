@@ -2,5 +2,5 @@
   "name": "Eman Token",
   "symbol": "ET",
   "description": "Example token from Solana Making a Token guide. Test num 1",
-  "image": "https://github.com/dns-jonathanb/testtolken/blob/main/namroud-gorguis-FZWivbri0Xk-unsplash.jpg?raw=true"
+  "image": "https://raw.githubusercontent.com/dns-jonathanb/testtolken/refs/heads/main/namroud-gorguis-FZWivbri0Xk-unsplash.jpg"
 }
